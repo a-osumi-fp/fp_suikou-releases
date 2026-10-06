@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "channel": "stable",
-  "latestVersion": "0.0.113",
+  "latestVersion": "0.1.5",
   "platforms": {
     "win32-x64": {
-      "feedUrl": "https://github.com/a-osumi-fp/fp_suikou-releases/releases/download/v0.0.113"
+      "feedUrl": "https://github.com/a-osumi-fp/fp_suikou-releases/releases/download/v0.1.5"
     }
   }
 }
